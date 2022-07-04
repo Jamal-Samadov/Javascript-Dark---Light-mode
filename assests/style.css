@@ -1,0 +1,19 @@
+body i{
+    background-color: rgb(84 83 110);
+    padding: 4rem;
+    font-size: 144px;
+    border-radius: 100%;
+    margin: 0rem 2rem -7rem 0rem; 
+    bottom: 38%;
+    right: 29%;
+    position: fixed;
+    cursor: pointer;
+    transition: .5s;
+}
+body {
+    transition: 1s;
+}
+#message{
+    text-align: center;
+    font-size: 42px;
+}
